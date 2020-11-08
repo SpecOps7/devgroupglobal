@@ -4,7 +4,7 @@ service:
   title: Our Services
   service_item:
   - name: Cloud Infrastructure Implementation
-    icon: ''
+    icon: "☁️"
     content: ''
   - name: Apps Development
     icon: ti-package
