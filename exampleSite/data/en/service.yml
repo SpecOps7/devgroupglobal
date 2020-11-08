@@ -5,7 +5,7 @@ service:
   service_item:
   - name: Cloud Infrastructure Implementation
     icon: "☁️"
-    content: ''
+    content: Google Azure AWS
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
